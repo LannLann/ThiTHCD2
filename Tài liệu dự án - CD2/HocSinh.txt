@@ -12,3 +12,4 @@
 1316004#Nguyen Gia#Nam#17/12/1998#giaa@gmail.com#8.0#131602
 1316005#Dao Thu#Nu#10/10/1998#thu@gmail.com#7.6#131602
 1417001#tran Nam#Nu#1/8/1999#nam10a@gmail.com#7.0#141701
+1011726#Le Lan#Nu#11/3/1999#quysky113@gmail.com#8.0#1011726
